@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A recipe for very tasty hummus
 
 ## With love on your table
 
