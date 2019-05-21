@@ -14,6 +14,7 @@
 - cut open avocado and remove stone
 - Scoop out flesh
 - Put into a bowl and mix tomatoes and onion
+- Add some squeezed lemon juice
 
 An example repository for **Git** Training with Toby
 
