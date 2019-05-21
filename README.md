@@ -1,6 +1,8 @@
 # A Recipe for Guacamole
 An example repository for **Git** Training with Toby
 
+<!-- Comment added -->
+
 - bullets with **minus**
   - and sub-bullets (space and dash)
 - [and EMBL links] (https://www.embl-hamburg.de)  
