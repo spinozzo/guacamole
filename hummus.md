@@ -7,6 +7,7 @@
 - chickpeas
 - tahini
 - olive oil
+- and again lemon juice wouldn't hurt
 
 Cheers,
 Andrea
