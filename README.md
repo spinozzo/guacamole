@@ -1,5 +1,14 @@
 # A Recipe for Guacamole
+
+- avocado
+- onions
+- salt
+- pepper
+
+Put into a bowl an mix.
+
 An example repository for **Git** Training with Toby
+
 
 <!-- Comment added -->
 
