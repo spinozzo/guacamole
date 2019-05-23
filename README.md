@@ -33,7 +33,7 @@ code can be highlighted with backticks
 
 `Hello world`
 
-```
+```Bash
 multiple lines with 3 backticks 
 hello
 andrea
